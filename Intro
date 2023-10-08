@@ -1,0 +1,7 @@
+I am here using Hyper for command control. 
+I am starting my first project in node.js
+I created a file name index.js using (touch index.js)
+
+node index.js 
+
+This runs file in the hyper 

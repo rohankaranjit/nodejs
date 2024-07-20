@@ -1,4 +1,4 @@
-//Installing npm package for called supervillains//
+//Installing npm 
 const superVillains = require("supervillains");
 
 console.log(superVillains.random());

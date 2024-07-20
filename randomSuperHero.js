@@ -1,4 +1,4 @@
-//Installing npm package for called superhero-name-library//
+//Installing 
 const superHeroName = require("superhero-name-library");
 
 console.log(superHeroName.random());

@@ -1,5 +1,5 @@
 /* 
-.Use the inquirer npm package to get user input.
+Use the inquirer npm package to get user input.
 */
 import inquirer from "inquirer";
 import qr from 'qr-image';

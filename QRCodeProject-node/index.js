@@ -20,7 +20,6 @@ inquirer
         if(err) throw err;
         console.log("URL saved.")
     })
-
   })
   .catch((error) => {
     if (error.isTtyError) {

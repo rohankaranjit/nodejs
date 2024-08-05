@@ -2,7 +2,6 @@
 
 
 
-
 /* 
 Use the inquirer npm package to get user input.
 */
